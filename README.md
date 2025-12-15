@@ -26,7 +26,7 @@
 <!--   <img align="center" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/nodejs-original.svg"> -->
 <!--   <img align="center" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> -->
 
-  [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,typescript,nestjs,express,prisma,mysql,postgresql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,typescript,nestjs,java,springboot,express,prisma,mysql,postgresql)](https://skillicons.dev)
 </div>
 
 ---
