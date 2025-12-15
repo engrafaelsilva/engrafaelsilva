@@ -1,27 +1,51 @@
-# 💻 Olá! Seja bem-vindo(a)!
-# Me chamo Rafael Silva 👋
+# 👋 Olá! Eu sou o Rafael Silva
 
-Sou um desenvolvedor apaixonado por tecnologia e software, com foco em **desenvolvimento de software**, **boas práticas de programação**. Atualmente, estou cursando **graduação** em **Análise e Desenvolvimento de Sistemas na Unip**. Busco sempre evoluir minhas habilidades técnicas.
+💻 Desenvolvedor **Backend** em formação, apaixonado por tecnologia e construção de APIs robustas, bem estruturadas e documentadas.
 
----
-
-## 📚 Sobre mim
-
-- 💻 Formado em curso técnico em Desenvolvimento de Sistemas  
-- 🚀 Estudando ativamente **NodeJs**, **NestJs**, **Java**, **Spring Boot** e **Microsserviços**
+Atualmente curso **Análise e Desenvolvimento de Sistemas (UNIP)** e possuo formação técnica em **Desenvolvimento de Sistemas**. Tenho foco em boas práticas de programação, arquitetura em camadas e desenvolvimento de aplicações backend modernas.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🚀 Foco Atual
+- Desenvolvimento de **APIs REST e RESTful**
+- Arquitetura em camadas (Controller, Service, Repository)
+- Microsserviços (nível básico)
+- Documentação de APIs com **Swagger / OpenAPI**
+- Containerização com **Docker**
+- Deploy básico em nuvem (**Azure**)
 
-- **Linguagens**: Java, NodeJs, NestJs  
-- **Frameworks e Bibliotecas**: Spring, Express  
-- **Ferramentas de Desenvolvimento**: IntelliJ IDEA, Git, Docker, Insomnia
-- **Outros conhecimentos**: Testes de software, APIs, Documentação com Swagger/OpenI, conhecimento básico em Front-End, focado em ReactJs e NextJs
+---
+
+## 🧠 Tecnologias e Ferramentas
+
+### 🔹 Back-End
+- **Java** (Spring Boot)
+- **NodeJs**, **NestJs**
+- Express
+
+### 🔹 Bancos de Dados
+- PostgreSQL
+- MySQL
+
+### 🔹 DevOps & Cloud
+- Docker
+- Azure (deploy básico)
+
+### 🔹 Testes & Documentação
+- Insomnia
+- Swagger / OpenAPI
+
+### 🔹 Front-End (Conhecimento Básico)
+- ReactJs
+- NextJs
+
+---
+
+## 🎯 Objetivo
+Atuar como **Desenvolvedor Backend Júnior**, contribuindo no desenvolvimento de APIs, microsserviços e soluções escaláveis, enquanto evoluo tecnicamente em ambientes profissionais.
 
 ---
 
 ## 📫 Contato
-
-- **E-mail**: *dev.rafaelsilva01@gmail.com*
-- **LinkedIn**: *www.linkedin.com/in/dev-rafaelsilva*
+📧 Email: dev.rafaelsilva01@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/dev-rafaelsilva
