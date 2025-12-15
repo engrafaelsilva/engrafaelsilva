@@ -26,7 +26,22 @@
 <!--   <img align="center" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/nodejs-original.svg"> -->
 <!--   <img align="center" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> -->
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,java,spring,express,prisma,mysql,postgresql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,java)](https://skillicons.dev)
+</div>
+
+---
+
+### 🚧 Bibiotecas e Frameworks que utilizo:
+
+<div style="display: inline_block"><br>
+<!--   <img align="center" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+<!--   <img align="center" height="30" width="40" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
+<!--   <img align="center" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+<!--   <img align="center" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
+<!--   <img align="center" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/nodejs-original.svg"> -->
+<!--   <img align="center" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> -->
+
+  [![My Skills](https://skillicons.dev/icons?i=spring,express,fastify)](https://skillicons.dev)
 </div>
 
 ---
