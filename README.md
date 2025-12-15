@@ -6,10 +6,15 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (UNIP)** e possuo form
 
 ---
 
+## 🎯 Objetivo
+Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, microsserviços e soluções escaláveis, enquanto evoluo tecnicamente em ambientes profissionais.
+
+---
+
 ## 🚀 Foco Atual
 - Desenvolvimento de **APIs REST e RESTful**
-- Arquitetura em camadas (Controller, Service, Repository)
-- Microsserviços (nível básico)
+- Arquitetura em camadas
+- Microsserviços
 - Documentação de APIs com **Swagger / OpenAPI**
 - Containerização com **Docker**
 - Deploy básico em nuvem (**Azure**)
@@ -29,7 +34,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (UNIP)** e possuo form
 
 ### 🔹 DevOps & Cloud
 - Docker
-- Azure (deploy básico)
+- Azure
 
 ### 🔹 Testes & Documentação
 - Insomnia
@@ -38,11 +43,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (UNIP)** e possuo form
 ### 🔹 Front-End (Conhecimento Básico)
 - ReactJs
 - NextJs
-
----
-
-## 🎯 Objetivo
-Atuar como **Desenvolvedor Backend Júnior**, contribuindo no desenvolvimento de APIs, microsserviços e soluções escaláveis, enquanto evoluo tecnicamente em ambientes profissionais.
 
 ---
 
