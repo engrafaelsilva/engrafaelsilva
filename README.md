@@ -24,4 +24,4 @@ Sou um desenvolvedor apaixonado por tecnologia e software, com foco em **desenvo
 ## 📫 Contato
 
 - **E-mail**: *dev.rafaelsilva01@gmail.com*
-- **LinkedIn**: *https://www.linkedin.com/in/rafael-silva-63087b30b*
+- **LinkedIn**: *www.linkedin.com/in/dev-rafaelsilva*
