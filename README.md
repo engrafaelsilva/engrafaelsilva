@@ -26,7 +26,7 @@
 <!--   <img align="center" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/nodejs-original.svg"> -->
 <!--   <img align="center" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> -->
 
-  [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,typescript,nestjs,java,spring,express,prisma,mysql,postgresql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,java,spring,express,prisma,mysql,postgresql)](https://skillicons.dev)
 </div>
 
 ---
@@ -52,7 +52,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) -->
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,swagger,insomnia)](https://skillicons.dev)
 
 ---
 
