@@ -25,7 +25,7 @@ Atuar como **Desenvolvedor Back-End**, contribuindo no desenvolvimento de APIs, 
 
 ### 🔹 Back-End
 - **Java**,
-- **Spring Boot**
+- **Spring Boot**,
 - **NodeJs**,
 - **NestJs**,
 - **Express**
